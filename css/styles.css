@@ -1,0 +1,39 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Helvetica neue', Helvetica, serif;
+  background-color: lemonchiffon;
+}
+h1 {
+  margin:auto;
+}
+.top-container {
+  background-color: #E4F9F5;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+.top-cloud {
+  position: relative;
+  left: 15%;
+}
+.name {
+  font-family: Sacramento,verdana,serif;
+}
+.code {
+  width: 250px;
+  height: 250px;
+}
+.technologies {
+  margin-left: 0;
+  padding: 0;
+}
+.sword {
+  width: 250px;
+  height: 250px;
+}
+.center-table {
+  margin-left:auto;
+  margin-right:auto;
+}
